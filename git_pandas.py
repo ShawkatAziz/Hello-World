@@ -26,6 +26,6 @@ df = pd.DataFrame(my_data,
 #Exercise uncomment the next lines and check the average of all
 #df.mean(0)
 #df["age"].mean()
-
+new_change="data_mining_id_m20181035"
 
 #Get the mean of the Average Spending
